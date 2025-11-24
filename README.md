@@ -65,6 +65,8 @@ This project focuses on building an interactive Power BI dashboard to analyze BM
   * Region Performance Page (Map visuals, region trends)
 
   * Customer Insights Page (Segments, buying patterns)
+<img width="1371" height="741" alt="BMW PowerBI" src="https://github.com/user-attachments/assets/9e249428-7095-45c4-84fc-4452f05c1003" />
+
 
 ### Used advanced visuals:
 
